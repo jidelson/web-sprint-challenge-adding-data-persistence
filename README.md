@@ -48,6 +48,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain the difference between `Relational Databases` and `SQL`.
 
+A relational database
+
 2. Why do tables need a `primary key`?
 
 3. What is the name given to a table column that references the primary key on another table.
@@ -107,3 +109,4 @@ Follow these steps for completing your project.
 -   [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
 -   [ ] Add your team lead as a reviewer on the pull-request
 -   [ ] Your team lead will count the project as complete after receiving your pull-request
+
